@@ -9,9 +9,7 @@
 	html{
 		background:#040400 !important;
 	}
-	.main{
-		width:350px;
-		}
+	
 		.fondo{
 			background-color: #30302E !important;
 
@@ -20,36 +18,17 @@
 .tamanio{
 	 width: 350px; height: 350px;
 }
-	.amarillo{
-	text-align:center;
-	color:white;
-	font-size:25px;
-	text-shadow:2px 2px 2px #cccccc;
-	background:#E3F05F;
-	width:350px;
-	height:350px;
-	line-height:350px;
-	}
-	.rojo{
-	text-align:center;
-	color:white;
-	font-size:25px;
-	text-shadow:2px 2px 2px #cccccc;
-	background: #DB204F;
-	width:350px;
-	height:350px;
-	line-height:350px;
-	}
-	.azul{
-	text-align:center;
-	color:white;
-	font-size:25px;
-	text-shadow:2px 2px 2px #cccccc;
-	background: #4E42E3;
-	width:350px;
-	height:350px;
-	line-height:350px;
-	}
+.titulo{
+	color: aliceblue;
+	font-size: 50px;
+	padding-bottom:10px;
+	font-family:"Times New Roman", Times, serif !important;
+
+}
+	
 	.espacios{
 		padding-top: 25px;
+		padding-bottom: 15px;
+		padding-left: 92px;
+		padding-right: 92px;
 	}
